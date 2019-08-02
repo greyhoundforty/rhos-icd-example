@@ -9,3 +9,8 @@
 *.tfvars
 *.tfplan
 *.pem
+
+# Don't commit working example file
+actualConnectionTest.rb
+
+backend.tf
